@@ -1,1 +1,1 @@
-Carrinho Educaciona;
+Carrinho Educacional
