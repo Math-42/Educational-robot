@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561690232 source:c:\users\ned landy\documents\acompanhamento\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+	"SDL_image.h"
+	<string.h>
+
